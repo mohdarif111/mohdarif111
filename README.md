@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trojan Force from, INDIA</h1>
 <h3 align="center">A passionate Computer science from India</h3>
     <img src="https://media.giphy.com/media/K5KfQExKk731K/giphy.gif" alt="img">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw213Dg-QkoTHLwwqRGm2f3s&ust=1743356347351000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD_ntHqr4wDFQAAAAAdAAAAABAE" alt="img1">
+
 
 
 - 🌱 I’m currently learning **DSA, Cyber security**
