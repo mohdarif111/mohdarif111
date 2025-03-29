@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack, Cyber security**
+- 🌱 I’m currently learning **AI, Full Stack, Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohd-arif-ur-rahman-91558a242/](https://www.linkedin.com/in/mohd-arif-ur-rahman-91558a242/)
 
