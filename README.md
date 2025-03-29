@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trojan Force from, INDIA</h1>
 <h3 align="center">A passionate Computer science from India</h3>
 <!--     <img src="https://media.giphy.com/media/K5KfQExKk731K/giphy.gif" alt="img"  align="right"> -->
-    <img src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif" alt="img" align="right">
+    <img src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAC/anime-computer-gurl.gif" alt="img" align="right" height="300px" width="300px">
 
 
 
